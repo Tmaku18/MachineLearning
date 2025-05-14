@@ -1,6 +1,7 @@
 # MachineLearning
 My machine learning projects and models
 ## AI Flashcards ##
+https://flashcard-frontend.aichatroulette.com/login
 ## AI Project ##
 # RNN Model 
 This Python script implements a comprehensive machine learning pipeline to predict NBA playoff rankings. It uses a hybrid neural network model combining a Recurrent Neural Network (RNN, specifically LSTM) for processing sequences of individual player statistics and a Multi-Layer Perceptron (MLP) for aggregated team-level features.
